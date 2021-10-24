@@ -205,7 +205,7 @@ transition: .4s;
 /*======about=======*/
 .about{
     background: #ffffff;
-    padding: 105px 225px;
+    padding: 105px 0px;
 }
 .about-left span {
     color:#ff5421;
